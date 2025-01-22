@@ -1,1 +1,1 @@
-touch weather_forecasting.py
+print("Bienvenue dans le projet Weather-Forecasting-RNN!")
