@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Copier le code
-git clone https://github.com/TON_UTILISATEUR/Weather-Forecasting-RNN.git
+git clone https://github.com/mohamediaaraben/Weather-Forecasting-RNN.git
 cd Weather-Forecasting-RNN
 Install the required dependencies:
 
@@ -75,10 +75,7 @@ During training, the model's performance is tracked using:
 Loss (MSE): The mean squared error between the predicted and actual values.
 RMSE: Root Mean Squared Error for better interpretability.
 Predictions
-The RNN predicts the temperature values, and the results are compared against the actual data. Below is an example of the predicted vs. actual temperatures:
-
-
-Note: Replace results.png with the actual plot image after running the model.
+The RNN predicts the temperature values, and the results are compared against the actual data.
 
 💡 Key Features
 Implements time-series forecasting using RNNs.
